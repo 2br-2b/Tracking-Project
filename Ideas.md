@@ -6,6 +6,8 @@
  - Average sentence length
  - Frequency of non-period punctuation (dashes, colon, semicolon, ampersand, etc.)
  - Letter frequency: to be determined whether we should track this, or if this is too invasive
+ - Capitalization (or not) of the first word of a sentence
+ - Capitalization (or not) of the word "I"
 
 ## With a keylogger
  - Words per minute/characters per minute (note - will have to find and ignore AFK time)
